@@ -37,11 +37,12 @@
 
 	<?php include("php/nav.php") ?>
 		<!-- /.sk__menu -->
+		<!--
 <section id="animated-counters-section" class="sk__strip-header dark-shade-3-bg " style="height: 2vh !important;">
 					<div class="container">
 
 					</div>
-				</section>
+				</section>-->
 		
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
@@ -83,17 +84,7 @@
 							</div>
 						</div>
 						<div class="row sk__featureboxes sk__featureboxes-image-style">
-<!--
-<div class="col-6 col-sm-6 col-lg-4 sk__featurebox-col text-center">
-	<a class="sk__imageboxoshire" href="contact">
-		<div class="sk__imagebox-img-wrap">
-			<img class="sk__imagebox-img" src="assets/images/fina-harold.png" alt="service image">
-		</div>
-		<div class="sk__imagebox-text-wrap">
-			<h5 class="oshire-gold">Fina & Harold</h5>
-		</div>
-	</a>
-</div>-->
+
 
 <div class="col-6 col-sm-6 col-lg-4 sk__featurebox-col text-center">
 	<div class="sk__imageboxoshire">
@@ -103,11 +94,14 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-			<h5 class="oshire-gold">Name: Fina & Harold</h5>
-			<h5 class="oshire-gold">Breed: White Teacup Pomeranian</h5>
-			<h5 class="oshire-gold">Birthdate(s):</h5>
-			<h5 class="oshire-gold">Sex: Female & Male</h5>
-			<h5 class="oshire-gold">Price:</h5>
+<h5 class="text-black">Name: Fina & Harold</h5>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: White Teacup Pomeranian</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s): 12/23/2024 & 11/23/2024</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female & Male</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price: PHP 315,000 | PHP 280,000</p>
+
+
+
 		</div>
 	</div>
 
@@ -127,11 +121,14 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-			<h5 class="oshire-gold">Name: Fufu</h5>
-			<h5 class="oshire-gold">Breed: Yorkie Terrier</h5>
-			<h5 class="oshire-gold">Birthdate(s):</h5>
-			<h5 class="oshire-gold">Sex: Female</h5>
-			<h5 class="oshire-gold">Price:</h5>			
+<h5 class="text-black">Name: Fufu</h5>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Yorkie Terrier</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s):</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price:</p>
+
+
+	
 		</div>
 	</div>
 
@@ -150,11 +147,14 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-			<h5 class="oshire-gold">Name: Gallant</h5>
-			<h5 class="oshire-gold">Breed: Pomsky</h5>
-			<h5 class="oshire-gold">Birthdate(s):</h5>
-			<h5 class="oshire-gold">Sex: Male</h5>
-			<h5 class="oshire-gold">Price:</h5>			
+<h5 class="text-black">Name: Gallant</h5>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Pomsky</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 11/17/2024</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Male</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price: PHP 385,000</p>
+
+
+		
 		</div>
 	</div>
 
@@ -174,11 +174,14 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-			<h5 class="oshire-gold">Name: Vivi</h5>
-			<h5 class="oshire-gold">Breed: Pomsky</h5>
-			<h5 class="oshire-gold">Birthdate(s):</h5>
-			<h5 class="oshire-gold">Sex: Male</h5>
-			<h5 class="oshire-gold">Price:</h5>			
+<h5 class="text-black">Name: Vivi</h5>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Pomsky</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s):</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Male</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price:</p>
+
+
+		
 		</div>
 	</div>
 
@@ -197,11 +200,14 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-			<h5 class="oshire-gold">Name: Lisa & Rose</h5>
-			<h5 class="oshire-gold">Breed: Mame Shiba Red - Black/Tan</h5>
-			<h5 class="oshire-gold">Birthdate(s):</h5>
-			<h5 class="oshire-gold">Sex: Both Female</h5>
-			<h5 class="oshire-gold">Price:</h5>			
+<h5 class="text-black">Name: Lisa & Rose</h5>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Mame Shiba Black/Tan - Red</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s): 11/15/2024 & 11/16/2024</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Both Female</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price: PHP 275,000 (each)</p>
+
+
+		
 		</div>
 	</div>
 
@@ -242,11 +248,14 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-			<h5 class="oshire-gold">Name: Heaven</h5>
-			<h5 class="oshire-gold">Breed: Blue Golden British Shorthair</h5>
-			<h5 class="oshire-gold">Birthdate(s):</h5>
-			<h5 class="oshire-gold">Sex: Female</h5>
-			<h5 class="oshire-gold">Price:</h5>			
+<h5 class="text-black">Name: Heaven</h5>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Blue Golden British Shorthair</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s):</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price:</p>
+
+
+		
 		</div>
 	</div>
 
@@ -265,11 +274,14 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-			<h5 class="oshire-gold">Name: Vid</h5>
-			<h5 class="oshire-gold">Breed: Lilac Golden British Shorthair</h5>
-			<h5 class="oshire-gold">Birthdate(s):</h5>
-			<h5 class="oshire-gold">Sex: Female</h5>
-			<h5 class="oshire-gold">Price:</h5>			
+<h5 class="text-black">Vid</h5>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Lilac Golden British Shorthair</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s):</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price:</p>
+
+
+			
 		</div>
 	</div>
 
@@ -285,7 +297,7 @@
 						</div>
 						<div class="row mt-5 sk__fade-in-2">
 							<div class="col-12 col-xl-10 offset-xl-1 text-center">
-								<p class="p-v2 skills-subhead oshire-gold">Import pets have been handpicked from all over the world and have all the necessary vaccinations and documentation to ensure that they are fully healthy and are safe for rehoming.</p>
+								<p class="p-v2 skills-subhead text-black">Import pets have been handpicked from all over the world and have all the necessary vaccinations and documentation to ensure that they are fully healthy and are safe for rehoming.</p>
 							</div>
 						</div>
 					</div>

@@ -20,17 +20,17 @@
 		<!-- Dynamically controlled with JS! -->
 		<a class="sk__mobile-main-logo" href="index"><img alt="Website logo." src="assets/images/logo-normal.png"></a>
 
-		<?php include("php/nav.php") ?>
+		<?php include("php/spec-nav.php") ?>
 
 		
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
 
-				<section id="animated-counters-section" class="sk__strip-header dark-shade-3-bg " style="height: 2vh !important;">
+				<!--<section id="animated-counters-section" class="sk__strip-header dark-shade-3-bg " style="height: 2vh !important;">
 					<div class="container">
 
 					</div>
-				</section>
+				</section>-->
 
 
 

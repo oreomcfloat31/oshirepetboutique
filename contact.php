@@ -72,8 +72,9 @@
 
 
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
+								<h4 class="oshire-gold">+6327 0008312 / +63995 6412778</h4><br>
 								<h4 class="oshire-gold">24K Mansion Bldg., 45 Timog Avenue corner Scout Tuazon, South Triangle, Quezon City, Philippines. 1103.</h4>
-									<h4 class="oshire-gold">+6327 0008312 / +63995 6412778</h4><br>
+									
 							</div>
 
 						</div>

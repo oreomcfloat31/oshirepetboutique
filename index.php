@@ -56,7 +56,8 @@
 							<!-- Slide 4 -->
 							<div class="carousel-item zooming active hero-slide-1 sk__hero-slider-item sk__image-back-cover">
 								<section class="sk__parallax-background-section sk__hero-item-center-center">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/images/hero-image-08.png);"></div>
+									<img src="assets/images/hero-image-08.png" class="sk__parallax-background-element sk__absolute w-100" style="object-fit: cover; height: 100%; width: 100%;" />
+
 
 									<!-- Hero content -->
 									<div class="mb-2 text-center">

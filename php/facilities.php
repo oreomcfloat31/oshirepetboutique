@@ -6,11 +6,11 @@
 				================================================== -->
 
 				<!-- Image boxes with paragraph -->
-				<section class="sk__parallax-background-section sk__parallax-fixer-ignore-height sk__pt-l sk__pb-m  sk__solid-menu-bar" style="padding-bottom: 2vh !important;">
+				<section class="sk__parallax-background-section sk__parallax-fixer-ignore-height sk__pt-l sk__pb-m  sk__solid-menu-bar" style="padding-bottom: 2vh !important; padding-top: 2vh !important; ">
 					<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-color: #ffffff !important;"></div>
 
 						<div class="row text-center">
-							<div class="col sk__heading-spacer-l">
+							<div class="col sk__heading-spacer-l" style="padding-bottom: 3vh !important;">
 								<h1 class="super-heading oshire-gold mb-sm-1">The Facility<span class="heading-deco"></span></h1>
 
 							</div>
@@ -19,7 +19,7 @@
 					<div class="container sk__supercontainer">
 						<div class="row sk__imageboxes">
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" style="background-color:#ffffff !important;" href="gallery">
+								<a class="sk__imagebox" style="background-color: rgba(255, 255, 255, 0.5) !important;" href="gallery">
 									<img class="sk__imagebox-top-bar" src="assets/images/browser-top.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.png" alt="service image">

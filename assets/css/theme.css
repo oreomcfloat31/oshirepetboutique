@@ -3868,8 +3868,7 @@ section.sk__skip-parallax-background-section.sk__parallax-fixer-section {
 }
 
 .sk__imagebox:hover {
-	background-color: #121212;
-	background-color: #1E1E1E;
+	background-color: rgba(30, 30, 30, 0.5);
 }
 
 .sk__imagebox-img-wrap {
@@ -3890,14 +3889,15 @@ section.sk__skip-parallax-background-section.sk__parallax-fixer-section {
 	-webkit-transform: translateY(-10px) !important;
 	    -ms-transform: translateY(-10px) !important;
 	        transform: translateY(-10px) !important;
-	-webkit-box-shadow: 0 10px 5px 3px rgba(0,0,0,0.99);
-	        box-shadow: 0 10px 5px 3px rgba(0,0,0,0.99);
+	-webkit-box-shadow: 0 10px 5px 3px rgba(0, 0, 0, 0.5);
+	        box-shadow: 0 10px 5px 3px rgba(0, 0, 0, 0.5);
 }
 
+/**
 .sk__imagebox:hover .sk__imagebox-img {
 	-webkit-filter: saturate(1.2) brightness(1.25);
 	        filter: saturate(1.2) brightness(1.25);
-}
+}**/
 
 @media all and (min-width: 576px) and (max-width: 767px) { /* sm */
 	.sk__imagebox-text-wrap p {
@@ -3917,8 +3917,8 @@ section.sk__skip-parallax-background-section.sk__parallax-fixer-section {
 }
 
 .sk__imageboxoshire:hover {
-    background-color: #121212;
-    background-color: #1E1E1E;
+    background-color: #ffffff;
+    background-color: #ffffff;
 }
 
 .sk__imageboxoshire-img-wrap {
@@ -3936,11 +3936,13 @@ section.sk__skip-parallax-background-section.sk__parallax-fixer-section {
 }
 
 .sk__imageboxoshire:hover {
-    -webkit-transform: translateY(-10px) !important;
-    -ms-transform: translateY(-10px) !important;
-    transform: translateY(-10px) !important;
-    -webkit-box-shadow: 0 10px 5px 3px rgba(0,0,0,0.99);
-    box-shadow: 0 10px 5px 3px rgba(0,0,0,0.99);
+	-webkit-transform: translateY(-10px) !important;
+	    -ms-transform: translateY(-10px) !important;
+	        transform: translateY(-10px) !important;
+	-webkit-box-shadow: 3px 10px 5px 3px rgba(0, 0, 0, 0.5);
+	        box-shadow: 3px 10px 5px 3px rgba(0, 0, 0, 0.5);
+	        box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+
 }
 
 .sk__imageboxoshire:hover .sk__imageboxoshire-img {
@@ -9118,3 +9120,10 @@ h2.h2-super.theme-preview-hero-h2 {
 }
 
 
+@media (max-width: 768px) {
+  .sk__parallax-background-element {
+    background-size: contain !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+  }
+}

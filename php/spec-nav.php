@@ -1,4 +1,4 @@
-		<nav id="main-nav" style="opacity: 0;" class="sk__menu navbar sk__navbar navbar-expand-lg navbar-dark static-top">
+		<nav id="main-nav" style="opacity: 1;" class="sk__menu navbar sk__navbar navbar-expand-lg navbar-dark static-top">
 
 			<!-- Desktop Menu Logo -->
 			<a class="navbar-brand" href="#"><img id="sk__main-logo" alt="Oshire Pet Boutique logo" src="assets/images/logo-normal.png"></a>
@@ -44,7 +44,7 @@
 				</li>	
 
 				<li class="nav-item">
-					<a class="nav-link hvr-underline-from-center" href="book-now">Book Now</a>
+					<a class="nav-link hvr-underline-from-center" href="coming-soon">Book Now</a>
 				</li>	
 
 

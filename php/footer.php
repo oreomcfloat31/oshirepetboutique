@@ -56,13 +56,13 @@
 									<li>
 										<a href="contact" class="footer-main-links">Contact Us</a>
 									</li>
+									<!--
 									<li>
 										<a href="coming-soon" class="footer-main-links">Book Appointment</a>
-									</li>	
+									</li>	-->
 								</ul>
-							</div>
-							<div class="col-sm-12 col-md-6 col-lg-3 footer-main-small-col">
-								<div class="row">
+
+																<div class="row">
 									<div class="col">
 										<!-- Footer Social Icons Menu -->
 										<section class="footer-socials-section">
@@ -76,12 +76,15 @@
 										</section>
 									</div>
 								</div>
+							</div>
+							<div class="col-sm-12 col-md-6 col-lg-3 footer-main-small-col">
+
 
 								<div class="row">
 									<div class="col">
 										<!-- Footer Social Icons Menu -->
 										<section class="footer-socials-section">
-											<h5>Scan the QR for Grooming</h5>
+											<h5>Scan QR to book your grooming session with us</h5>
 											<img style="max-width: 200px; margin: 0 auto;" src="assets/images/GroomingQR.png" alt="Website logo for the footer.">
 										</section>
 									</div>
