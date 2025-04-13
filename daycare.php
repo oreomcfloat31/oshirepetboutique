@@ -67,20 +67,19 @@
 							
 									<!-- Slides -->
 									<div class="carousel-inner">
-										<!--<div class="carousel-item active">
-											<img src="assets/images/ServiceMenu-01.png" alt="Service Menu">
+										<div class="carousel-item active">
+											<img src="assets/images/ServiceMenu-03.png" alt="Service Menu">
 											<div class="carousel-caption">
 												<div class="carousel-caption-description">
-													<p>Basic image gallery caption description.</p>
+													<p></p>
 												</div>
 											</div>
 										</div>
+										<!--
 										<div class="carousel-item">
 											<img src="assets/images/ServiceMenu-02.png" alt="Service Menu 2">
 										</div>-->
-										<div class="carousel-item">
-											<img src="assets/images/ServiceMenu-03.png" alt="Service Menu 3">
-										</div>
+
 										<div class="carousel-item">
 											<img src="assets/images/ServiceMenu-04.png" alt="Service Menu">
 										</div>
@@ -99,6 +98,41 @@
 				</section>
 				<!-- /.sk__gallery-basic -->
 
+
+				<section class="sk__project-gallery sk__parallax-chain">
+					<div class="container-fluid"><div class="row">
+							<div class="col px-0">
+								<!-- Project Gallery Image 1 -->
+								<section class="sk__gallery-item item-1 sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
+									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/images/portfolio-item-gallery-09.png);"></div>
+									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-left">
+										<span class="sk__huge-vertical-deco-text dark-shade-1-clr sk__hvdt-vertical-rails text-center">Comfort</span>
+									</span>-->
+								</section>
+								<!-- Project Gallery Image 2 -->
+								<section class="sk__gallery-item item-2 sk__parallax-background-section sk__centered-y-section sk__edge-beauty">
+									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/images/portfolio-item-gallery-10.png);"></div>
+								</section>
+								<!-- Project Gallery Image 3 -->
+								<section class="sk__gallery-item item-3 sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
+									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/images/portfolio-item-gallery-11.png);"></div>
+									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-right">
+										<span class="sk__huge-vertical-deco-text white-clr sk__hvdt-vertical-rails text-center" style="opacity: 0.4;">Stylish</span>
+									</span>
+								</section>
+								<!-- Project Gallery Image 4 -->
+								<section class="sk__gallery-item item-4 sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
+									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/images/portfolio-item-gallery-12.png);"></div>
+								</section>
+								<section class="sk__gallery-item item-2 sk__parallax-background-section sk__centered-y-section sk__edge-beauty">
+									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/images/portfolio-item-gallery-13.png);"></div>
+								</section>
+
+							</div>
+						</div>
+					</div>			
+				</section>
+				<!-- /.sk__project-gallery -->
 
 				<!-- Heading - Parallax testimonials section
 				================================================== -->

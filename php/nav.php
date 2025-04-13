@@ -36,6 +36,14 @@
 				</li>					
 
 				<li class="nav-item">
+					<a class="nav-link hvr-underline-from-center" href="pet-grooming">Grooming</a>
+				</li>	
+
+				<li class="nav-item">
+					<a class="nav-link hvr-underline-from-center" href="daycare">Pet Hotel</a>
+				</li>	
+
+				<li class="nav-item">
 					<a class="nav-link hvr-underline-from-center" href="blogs">Blogs</a>
 				</li>	
 

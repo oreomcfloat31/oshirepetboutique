@@ -34,7 +34,7 @@
 								<a class="sk__imagebox" style="background-color:#ffffff !important;" href="pet-grooming">
 									<img class="sk__imagebox-top-bar" src="assets/images/browser-top.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
-										<img class="sk__imagebox-img" src="assets/images/demo-thumb-02.png" alt="service image">
+										<img class="sk__imagebox-img" src="assets/images/pet-grooming.png" alt="service image">
 									</div>
 									<div class="sk__imagebox-text-wrap">
 										<h5 class="oshire-gold">Pet Grooming</h5>
