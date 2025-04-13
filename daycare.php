@@ -67,17 +67,17 @@
 							
 									<!-- Slides -->
 									<div class="carousel-inner">
-										<div class="carousel-item active">
+										<!--<div class="carousel-item active">
 											<img src="assets/images/ServiceMenu-01.png" alt="Service Menu">
-											<!--<div class="carousel-caption">
+											<div class="carousel-caption">
 												<div class="carousel-caption-description">
 													<p>Basic image gallery caption description.</p>
 												</div>
-											</div>-->
+											</div>
 										</div>
 										<div class="carousel-item">
 											<img src="assets/images/ServiceMenu-02.png" alt="Service Menu 2">
-										</div>
+										</div>-->
 										<div class="carousel-item">
 											<img src="assets/images/ServiceMenu-03.png" alt="Service Menu 3">
 										</div>
