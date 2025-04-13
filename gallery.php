@@ -123,9 +123,9 @@
 		<div class="sk__imagebox-text-wrap">
 <h5 class="text-black">Name: Fufu</h5>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Yorkie Terrier</p>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s):</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 12/13/2024</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price:</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price: PHP 300,000</p>
 
 
 	
@@ -175,10 +175,10 @@
 		</a>
 		<div class="sk__imagebox-text-wrap">
 <h5 class="text-black">Name: Vivi</h5>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Pomsky</p>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s):</p>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Male</p>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price:</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Poodle</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 12/16/2024</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price: PHP 275,000</p>
 
 
 		
@@ -250,9 +250,9 @@
 		<div class="sk__imagebox-text-wrap">
 <h5 class="text-black">Name: Heaven</h5>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Blue Golden British Shorthair</p>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s):</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 12/28/2024</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price:</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price: PHP 155,000</p>
 
 
 		
@@ -276,9 +276,9 @@
 		<div class="sk__imagebox-text-wrap">
 <h5 class="text-black">Vid</h5>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Lilac Golden British Shorthair</p>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s):</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 11/4/2024</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>
-<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price:</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price: PHP 200,000</p>
 
 
 			
