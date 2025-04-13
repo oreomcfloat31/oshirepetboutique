@@ -94,7 +94,7 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-<h5 class="text-black">Name: Fina & Harold</h5>
+<h5 class="text-black">Fina & Harold</h5>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: White Teacup Pomeranian</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s): 12/23/2024 & 11/23/2024</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female & Male</p>
@@ -121,7 +121,7 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-<h5 class="text-black">Name: Fufu</h5>
+<h5 class="text-black">Fufu</h5>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Yorkie Terrier</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 12/13/2024</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>
@@ -147,7 +147,7 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-<h5 class="text-black">Name: Gallant</h5>
+<h5 class="text-black">Gallant</h5>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Pomsky</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 11/17/2024</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Male</p>
@@ -174,7 +174,7 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-<h5 class="text-black">Name: Vivi</h5>
+<h5 class="text-black">Vivi</h5>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Poodle</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 12/16/2024</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>
@@ -200,7 +200,7 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-<h5 class="text-black">Name: Lisa & Rose</h5>
+<h5 class="text-black">Lisa & Rose</h5>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Mame Shiba Black/Tan - Red</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate(s): 11/15/2024 & 11/16/2024</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Both Female</p>
@@ -220,6 +220,53 @@
 <a href="assets/images/scrub/lisarose-7.jpg" data-lightbox="puppy-gallery4" data-title="Lisa&Rose" style="display:none;"></a>
 </div>
 
+<div class="col-6 col-sm-6 col-lg-4 sk__featurebox-col text-center">
+	<div class="sk__imageboxoshire">
+		<a href="assets/images/elegance.png" data-lightbox="elegance" data-title="Elegance">
+			<div class="sk__imagebox-img-wrap">
+				<img class="sk__imagebox-img" src="assets/images/elegance.png" alt="Elegance">
+			</div>
+		</a>
+		<div class="sk__imagebox-text-wrap">
+<h5 class="text-black">Elegance</h5>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Maltese</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 12/16/2024</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Male</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price: PHP 285,000</p>
+
+
+		
+		</div>
+	</div>
+
+	<!-- 
+<a href="assets/images/scrub/.jpg" data-lightbox="elegance" data-title="Elegance" style="display:none;"></a>
+Hidden extra images for Lightbox navigation -->
+</div>
+
+<div class="col-6 col-sm-6 col-lg-4 sk__featurebox-col text-center">
+	<div class="sk__imageboxoshire">
+		<a href="assets/images/viktor.png" data-lightbox="viktor" data-title="Viktor">
+			<div class="sk__imagebox-img-wrap">
+				<img class="sk__imagebox-img" src="assets/images/viktor.png" alt="Viktor">
+			</div>
+		</a>
+		<div class="sk__imagebox-text-wrap">
+<h5 class="text-black">Viktor</h5>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Longcoat Chihuhua</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 10/31/2024</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Male</p>
+<p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Price: PHP 75,000</p>
+
+
+		
+		</div>
+	</div>
+
+	<!-- 
+<a href="assets/images/scrub/.jpg" data-lightbox="viktor" data-title="Viktor" style="display:none;"></a>
+Hidden extra images for Lightbox navigation -->
+</div>
 
 						</div>
 					</div>
@@ -248,7 +295,7 @@
 			</div>
 		</a>
 		<div class="sk__imagebox-text-wrap">
-<h5 class="text-black">Name: Heaven</h5>
+<h5 class="text-black">Heaven</h5>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Breed: Blue Golden British Shorthair</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Birthdate: 12/28/2024</p>
 <p class="text-black" style="text-align: left !important; margin: 2px 0 !important;">Sex: Female</p>

@@ -22,7 +22,7 @@
 								<a class="sk__imagebox" style="background-color: rgba(255, 255, 255, 0.5) !important;" href="gallery">
 									<img class="sk__imagebox-top-bar" src="assets/images/browser-top.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
-										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.png" alt="service image">
+										<img class="sk__imagebox-img" src="assets/images/designer-pets.png" alt="service image">
 									</div>
 									<div class="sk__imagebox-text-wrap">
 										<h5 class="oshire-gold">Designer Pets</h5>
@@ -58,7 +58,7 @@
 								<a class="sk__imagebox" style="background-color:#ffffff !important;" href="daycare">
 									<img class="sk__imagebox-top-bar" src="assets/images/browser-top.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
-										<img class="sk__imagebox-img" src="assets/images/demo-thumb-04.png" alt="service image">
+										<img class="sk__imagebox-img" src="assets/images/demo-thumb-044.png" alt="service image">
 									</div>
 									<div class="sk__imagebox-text-wrap">
 										<h5 class="oshire-gold">Pet Hotel & Daycare</h5>

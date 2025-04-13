@@ -1761,6 +1761,7 @@ span.sk__menu-icon:not(.accented):not(.sk__gradient-back-v1) span[class^="icon-"
 		transition: all 0.4s ease 0s;
 		height: 100px;
 		width: auto;
+		padding-left: 10px;
 	}
 
 	body.sk__scrolling-started .sk__navbar .navbar-brand img {

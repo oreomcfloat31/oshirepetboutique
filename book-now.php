@@ -47,7 +47,19 @@
 	<!-- Slick (carousel) -->
 	<link href="assets/vendor/slick/1.8.1/slick.css" rel="stylesheet">
 	<link href="assets/vendor/slick/1.8.1/slick-theme-skilltech.css" rel="stylesheet">
+<style>
 
+@media (min-width: 1900px) {
+    .navbar-brand img {
+        -webkit-transition: all 0.4s ease 0s;
+        -o-transition: all 0.4s ease 0s;
+        transition: all 0.4s ease 0s;
+        height: 100px;
+        width: auto;
+        padding-left: 10px !important;
+    }
+}
+</style>
 
     <style>
         .hidden-email {

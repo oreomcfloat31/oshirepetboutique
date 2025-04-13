@@ -43,7 +43,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col"><br>
-<h2 class="h2-super">Daycare and Pet Hotel</h2>
+<h2 class="h2-super">Pet Hotel and Daycare</h2>
 <h5 class="h5-large thin">Safe, comfortable, and fun environment for your pets while you're away.</h5>
 
 
@@ -68,7 +68,7 @@
 									<!-- Slides -->
 									<div class="carousel-inner">
 										<div class="carousel-item active">
-											<img src="assets/images/ServiceMenu-03.png" alt="Service Menu">
+											<img src="assets/images/ServiceMenu-04.png" alt="Service Menu">
 											<div class="carousel-caption">
 												<div class="carousel-caption-description">
 													<p></p>
@@ -81,7 +81,7 @@
 										</div>-->
 
 										<div class="carousel-item">
-											<img src="assets/images/ServiceMenu-04.png" alt="Service Menu">
+											<img src="assets/images/ServiceMenu-03.png" alt="Service Menu">
 										</div>
 										
 									</div>
@@ -106,7 +106,7 @@
 								<section class="sk__gallery-item item-1 sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
 									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/images/portfolio-item-gallery-09.png);"></div>
 									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-left">
-										<span class="sk__huge-vertical-deco-text dark-shade-1-clr sk__hvdt-vertical-rails text-center">Comfort</span>
+										<span class="sk__huge-vertical-deco-text dark-shade-1-clr sk__hvdt-vertical-rails text-center" style="font-size: 10vw !important;">Comfort</span>
 									</span>-->
 								</section>
 								<!-- Project Gallery Image 2 -->
